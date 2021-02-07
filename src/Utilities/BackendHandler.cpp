@@ -88,7 +88,7 @@ bool BackendHandler::InitGLFW()
 #endif
 
 	//Create a new GLFW window
-	window = glfwCreateWindow(800, 800, "CG Assignment Project - Arthiran Sivarajah - 100660300", nullptr, nullptr);
+	window = glfwCreateWindow(800, 800, "CG Assignment 2 - A2 Groups 6", nullptr, nullptr);
 	glfwMakeContextCurrent(window);
 
 	// Set our window resized callback
