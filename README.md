@@ -1,5 +1,6 @@
 # Welcome to A2 Groups 6's Computer Graphics Assignment Repository
  Arthiran Sivarajah - 100660300
+ 
  Aaron Chan - 100657311
 
  INFR2350 Intermediate Computer Graphics Assignment 2 Repo
