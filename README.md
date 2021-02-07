@@ -6,7 +6,7 @@
  INFR2350 Intermediate Computer Graphics Assignment 2 Repo
 
 ## Running the application
- The executable is located in the zip file called Assignment2Executable.zip
+ The executable is located in the zip file called CGAssignment2Executable.zip
 
  Extract this file to your computer then run the executable file named CGAssignment2.exe
 
